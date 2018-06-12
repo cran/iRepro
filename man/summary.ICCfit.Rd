@@ -26,7 +26,7 @@ An object of class "summary.ICCfit". The object is a list with the components:
   \item{loglikelihood }{log-likelihood evaluated at maximum likelihood estimates}
 }
 \references{
-Kovacic J, Varnai VM. Reproducibility of grouped data assessed by intraclass correlation coefficient. Accepted for publication in \emph{Epidemiology}.
+Kovacic J, Varnai VM. Intraclass correlation coefficient for grouped data. \emph{Epidemiology} 2014;25(5):769--770.
 }
 \author{
 Jelena Kovacic \email{jkovacic@imi.hr}

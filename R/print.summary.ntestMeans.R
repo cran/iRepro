@@ -6,4 +6,3 @@ function(x, ...){
   cat("Degrees of freedom: ",x$df,"\n")
   print(x$test.res)  
 }
-

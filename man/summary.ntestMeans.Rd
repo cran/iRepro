@@ -29,7 +29,7 @@ An object of class "summary.ntestMeans". The object is a list with the component
   \item{df }{number of degrees of freedom in chi-squared normality test}
 }
 \references{
-Kovacic J, Varnai VM. Reproducibility of grouped data assessed by intraclass correlation coefficient. Accepted for publication in \emph{Epidemiology}.
+Kovacic J, Varnai VM. Intraclass correlation coefficient for grouped data. \emph{Epidemiology} 2014;25(5):769--770.
 }
 \author{
 Jelena Kovacic \email{jkovacic@imi.hr}

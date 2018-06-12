@@ -1,6 +1,5 @@
 \name{intervalICC}
 \alias{intervalICC}
-\alias{intervalICC.default}
 \alias{print.ICCfit}
 \title{
 Intraclass Correlation Coefficient for Interval-Censored Data
@@ -60,7 +59,7 @@ An object of class "ICCfit". The object is a list with the components:
   \item{loglikelihood }{log-likelihood evaluated at MLE parameters}
 }
 \references{
-Kovacic J, Varnai VM. Reproducibility of grouped data assessed by intraclass correlation coefficient. Accepted for publication in \emph{Epidemiology}.
+Kovacic J, Varnai VM. Intraclass correlation coefficient for grouped data. \emph{Epidemiology} 2014;25(5):769--770.
 }
 \author{
 Jelena Kovacic \email{jkovacic@imi.hr}
@@ -72,7 +71,7 @@ computation time.
 Subjects with only one measurement are omitted from ICC calculation. 
 }
 \seealso{
-\code{\link{print.ICCfit}}, \code{\link{summary.ICCfit}}
+\code{\link{summary.ICCfit}}
 }
 \examples{
 # Example with 6 predefined classes (grouped data)

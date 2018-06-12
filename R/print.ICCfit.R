@@ -5,4 +5,3 @@ function(x, ...){
   colnames(t) <- ""
   print(t)
 }
-

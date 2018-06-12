@@ -14,4 +14,3 @@ function(object, ...){
   class(res) <- "summary.ICCfit"
   res
 }
-

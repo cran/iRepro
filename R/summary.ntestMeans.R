@@ -13,4 +13,3 @@ function(object, ...){
   class(res) <- "summary.ntestMeans"
   res
 }
-

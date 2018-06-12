@@ -6,4 +6,3 @@ function(x, ...){
   colnames(t) <- c("time = 1", "time = 2")
   print(t)
 }
-

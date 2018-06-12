@@ -1,7 +1,5 @@
 \name{ntest.means}
 \alias{ntest.means}
-\alias{ntest.means.default}
-\alias{print.ntestMeans}
 \title{
 Normality Check for Interval-Censored Data with Repeated Measurements - Means
 }
@@ -60,7 +58,7 @@ An object of class "ntestMeans". The object is a list with the components:
   \item{bins }{number of categories in chi-square test}
 }
 \references{
-Kovacic J, Varnai VM. Reproducibility of grouped data assessed by intraclass correlation coefficient. Accepted for publication in \emph{Epidemiology}.
+Kovacic J, Varnai VM. Intraclass correlation coefficient for grouped data. \emph{Epidemiology} 2014;25(5):769--770.
 }
 \author{
 Jelena Kovacic \email{jkovacic@imi.hr}
