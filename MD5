@@ -1,6 +1,6 @@
-d046edfd3ff0974749289cbfdef9c838 *DESCRIPTION
+a87ddc1cf05e63479bf245d9ab64e5c5 *DESCRIPTION
 30649be023098b9f76e4e91293ca3118 *NAMESPACE
-868b81a27f96a3eb6fc55c8f5c5c99d7 *R/iRepro-internal.R
+03acf2ca7f1f955debee1540d6ff3260 *R/iRepro-internal.R
 f21c833c79e3260178f05e93e46f2b45 *R/intervalICC.R
 f4588b85bb65f1a11c029f078edddc83 *R/ntest.means.R
 32a1775b723774ea0cbf51b869f523c3 *R/ntest.res.R
@@ -12,11 +12,10 @@ eb5646927ce2d7baf1ae328e645cb210 *R/print.ntestRes.R
 8e82ad4aa181afb7e268f000eb02731c *R/summary.ICCfit.R
 f8c082acbf85b693944c3acc0347962e *R/summary.ntestMeans.R
 70bd2cbfe42ab99582e73e2666c7acf1 *R/summary.ntestRes.R
-484e4ad689c0548e0db2d18253739b40 *man/iRepro-internal.Rd
-374dc08316f66bff251c771c9b60a48a *man/iRepro-package.Rd
+5a9f01ec5e92aae93c3a877d403dbe1b *man/iRepro-package.Rd
 4dd45a0e310881245d9c20a7a049ca97 *man/intervalICC.Rd
-953b3ffc730a201e050b09be45273392 *man/ntest.means.Rd
-54282c64f93788faaebe76116e60163b *man/ntest.res.Rd
+740b57f67c5899f284291e5f33947177 *man/ntest.means.Rd
+3e5ecbe168bc9c389cbca97f57f26135 *man/ntest.res.Rd
 37fa382beb3b2fca5952fc7092672f08 *man/summary.ICCfit.Rd
 1180dac98549465762cd832d6a1ca32f *man/summary.ntestMeans.Rd
 91df8f3a1f25971f634fc6a79d3bda57 *man/summary.ntestRes.Rd

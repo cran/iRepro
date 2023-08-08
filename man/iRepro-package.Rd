@@ -12,8 +12,8 @@ Calculates intraclass correlation coefficient (ICC) for assessing reproducibilit
 \tabular{ll}{
 Package: \tab iRepro\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2018-06-12\cr
+Version: \tab 1.2\cr
+Date: \tab 2023-07-13\cr
 License: \tab GPL-3\cr
 }
 }

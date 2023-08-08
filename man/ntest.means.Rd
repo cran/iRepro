@@ -41,7 +41,7 @@ This function assesses the assumption that the subjects' means \eqn{0.5 (Y_{i1}+
 To test normality, chi-square goodness-of-fit test with \code{bins} subsequent data categories is used (call to \code{chisq.test} from package \code{stats}). 
 The categories (bins) are determined using the equidistant quantiles of expected normal distribution, with corresponding maximum likelihood 
 parameters. Maximum likelihood estimates for parameters \eqn{\mu}, \eqn{\sigma^2_b} and \eqn{\sigma^2} are obtained by calling the function \code{\link{intervalICC}}.
-The probability corresponding to each bin is \code{1/bins} (expected relative frequencies; this corresponds to \code{p = rep(1/bins,bins)} in \code{chisq.test} function). 
+The probability corresponding to each bin is \code{1/bins} (expected relative frequencies; this corresponds to \code{p = rep(1/bins,bins)} in \code{chisq.test} function). 
 Since means are interval-censored and censoring intervals overlap, the observed relative frequencies are calculated in the following way. If one of the original intervals representing subjects mean
 spans multiple bins, each bin receives a share of votes from the original interval. This share is calculated using the
 expected normal density function and it is proportional to the probability of data falling within the intersection of the
